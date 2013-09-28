@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/justone/App-Test-Minil/issues"
+      },
+      "homepage" : "https://github.com/justone/App-Test-Minil",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/justone/App-Test-Minil.git",
+         "web" : "https://github.com/justone/App-Test-Minil"
+      }
+   },
    "version" : "0.01"
 }
