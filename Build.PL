@@ -27,7 +27,7 @@ my %args = (
     module_name     => 'App::Test::Minil',
     allow_pureperl => 0,
 
-    script_files => [glob('script/*'), glob('bin/*')],
+    script_files => [glob('atm')],
     c_source     => [qw()],
     PL_files => {},
 

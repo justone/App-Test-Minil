@@ -20,5 +20,3 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 Nate Jones <nate@endot.org>
-
-Test Change
