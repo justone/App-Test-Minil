@@ -2,6 +2,8 @@ Revision history for Perl extension App-Test-Minil
 
 {{$NEXT}}
 
+    - Move script to .
+
 0.01 2013-09-28T19:10:18Z
 
     - original version
